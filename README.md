@@ -26,7 +26,8 @@ Clone the repository and install the required packages:
 git clone https://github.com/todare/eyeBallExpert.git
 cd eyeBallExpert
 pip install -r requirements.txt  # See optional requirements.txt below
-
+```
+# Run the notebook
 jupyter notebook eyeBallExpert.ipynb
 
 ## Results
